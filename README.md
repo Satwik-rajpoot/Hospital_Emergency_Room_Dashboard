@@ -1,4 +1,4 @@
-<img width="1373" height="647" alt="image" src="https://github.com/user-attachments/assets/936050e9-3e1b-4c2c-bdc1-9ceff40ff5a5" /># Hospital_Emergency_Room_Dashboard
+# Hospital_Emergency_Room_Dashboard
 This Excel dashboard provides a dynamic and visual overview of key performance indicators (KPIs) for monitoring and analyzing emergency room operations. Designed for healthcare analysts, hospital administrators, and data enthusiasts, it helps identify bottlenecks, optimize resource allocation, and improve patient experience.
 <h1>Dashboard View</h1> 
 <img width="1373" height="647" alt="Hospital_dashboard_snap" src="https://github.com/user-attachments/assets/652cf273-8ba7-4483-9527-4cf3aae4ca81" />
